@@ -1,0 +1,14 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convertir": "tsc ./Simulacro/eje1.ts",
+    "ejecutar": "node ./Simulacro/eje1.js",
+    "convertir2": "tsc ./Simulacro/eje3.ts",
+    "ejecutar2": "node ./Simulacro/eje3.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

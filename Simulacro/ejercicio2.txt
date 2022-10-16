@@ -1,0 +1,29 @@
+jercicio 2:
+Responder las siguientes preguntas:
+
+Que es un objeto?
+Es una instancia de de la clase 
+
+Que es una clase?
+Es un molde para crear objetos
+
+A que se llama metodo constructor?
+Es el metodo con el cual se crean los objetos de la clase
+
+Que son los modificadores de acceso?
+Modifican el acceso que se le quiere dar a los atributos o metodos de una clase, que tento queremos restringirlos o no.
+
+Que diferencia hay entre uno privado y uno protegido?
+El protected puede ser modificado por las clases hijas 
+
+Cuando se usa el this?
+This lo usamos para hacer referencia a los atributos de la clase, en el constructor para emparentar con los metodos
+del mismo.
+
+Cuando se usa el super?
+Super lo usamos para llamar las clases o atributos de la clase padre.
+
+A que se llama sub-clase, o clase hija?
+Es una clase la cual hereda de otra, esto quiere decir que puede hacer uso de los atributos y metodos de la clase padre
+Las clases padres son pensadas para ser genericas entonces por ejemplo solo vamos a tener que escribir siertos atributos
+y metodos que los vamos a poder reutiliar en otras clases hijas.
